@@ -27,3 +27,18 @@ the diffirence between a **fixed mindset** and a **growth mindset** :
  * when face ***obstacle*** loses focus.
  * when face ***effort*** views as fruitless.
  * when face other success views as a **threat**.
+
+
+ **Mark down**
+
+ Markdown **Benefits**
+
+ * allows coders to format words, add images, and create lists.
+ 
+* Markdown’s simplicity and flexibility helps you make fewer mistakes, and errors are much easier to find.
+
+* support many languages.
+* Markdown gives you a pretty bullet-proof way to create human-readable text files.
+* it is a light language.
+
+
